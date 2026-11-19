@@ -53,13 +53,6 @@ Fullstack-разработчик с опытом создания и подде�
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 `Composer` · `Jira` · `Trello`
 
-### Веб-платформы
-
-- [My-Doc](https://app.my-doc.kz) — портал для частных клиник и врачей
-- [Vip-Lounge](https://vip-lounge.kz/) — бронирование перелётов
-- [OK-NA](https://go.ok-na.kz/ru) — портал для риелторов
-- [LMIX ASIA](https://app.lmix.asia/) — лабораторный портал для врачей
-
 ---
 
 <p align="center">
